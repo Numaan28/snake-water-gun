@@ -42,4 +42,8 @@ else:
         print("you win")
 
     else:
-        print("something went wrong")        
+        print("something went wrong")
+
+
+#code by salman 
+# github = numaan28          
